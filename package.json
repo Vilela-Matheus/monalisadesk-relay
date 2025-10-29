@@ -1,0 +1,13 @@
+{
+  "name": "monalisadesk-relay",
+  "version": "1.0.0",
+  "description": "Relay WebSocket para MonalisaDesk",
+  "main": "relay.js",
+  "type": "module",
+  "scripts": {
+    "start": "node relay.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
